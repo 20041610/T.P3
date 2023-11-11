@@ -1,0 +1,8 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+.card {
+    display: flex;/* Modelo de cajas flexibles flexbox */
+    margin: 8.2rem;/* Margen de todos los lados del elemento. */
+    padding-bottom: 0rem;/* Relleno inferior del elemento */
+}

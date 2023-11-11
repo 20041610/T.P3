@@ -1,0 +1,53 @@
+
+.container{
+    margin: auto;/* Margen de todos los lados del elemento. */
+
+}
+.section1{
+    display: flex;/* Modelo de cajas flexibles flexbox */
+    width: 70%;/* Ancho del elemento. */
+    margin: auto;/* Margen de todos los lados del elemento. */
+    padding: 100px 0;/* Relleno en horizontal y vertical del
+    elemento */
+}
+.section2titulo{
+    font-family: 'roboto', sans-serif;
+    font-size: 40px;
+    color: #eb4a5f;
+    font-weight: bold;
+}
+.us {
+    display: flex;
+    padding: 2rem;
+}
+.us-text {
+    width: 60%;
+    padding: 10px;
+}
+.us-p {
+    font-family: 'roboto', sans-serif;/* Tipo de fuente. */
+    font-size: 15px;/* Tamaño de la fuente. */
+    color: #eb4a5f;/* Color de la fuente. */
+    text-align: justify;/* Alineacion del texto. */
+}
+.us-rs {
+    margin: 20px 0;
+}
+.rs-tittle {
+    font-size: 20px;
+    color: #eb4a5f;
+    font-weight: bold;
+}
+.icons-rs {
+    margin: 20px 10px;
+}
+.mapa {
+    width: 40%;
+    object-fit: 0;
+    border-radius: 5px;
+    padding-left: 2rem;
+}
+footer {
+    margin-top: 7.7rem;
+    margin-bottom: 0;
+}
